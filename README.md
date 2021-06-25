@@ -1,4 +1,4 @@
-Задачи 1-ого модуля Basics of software code development. \n
+Задачи 1-ого модуля Basics of software code development. <\n>
 Пакеты:
 line_program - содежит задачи по теме "Линейный программы".
 conditional_structure - содежит задачи по теме "Ветвления".
