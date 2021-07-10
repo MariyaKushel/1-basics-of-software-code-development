@@ -1,4 +1,4 @@
-﻿package by.java_online_cource.basics.conditional_structure;
+﻿package by.javacource.basics.conditionalstructure;
 
 import java.util.Scanner;
 

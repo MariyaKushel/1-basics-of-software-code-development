@@ -1,4 +1,4 @@
-﻿package by.java_online_cource.basics.loop;
+﻿package by.javacource.basics.loop;
 
 import java.util.Scanner;
 

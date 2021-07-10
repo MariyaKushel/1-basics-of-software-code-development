@@ -1,4 +1,4 @@
-﻿package by.java_online_cource.basics.line_program;
+﻿package by.javacource.basics.lineprogram;
 
 import java.util.Scanner;
 import java.math.*;
